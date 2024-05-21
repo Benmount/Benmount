@@ -2,7 +2,7 @@
 
 Meu nome é Gustavo
 
-- Eu estudo no Alura
+- Eu estudo no [Alura](https://www.alura.com.br/)
 - Estou aprendendo JavaScript
 - Ansioso para aprender mais
 
@@ -11,3 +11,5 @@ Meu nome é Gustavo
 gustavobaterista021@gmail.com
 
 @Gustavo_de_souza
+
+![](https://media1.tenor.com/m/4e3Gh3RIy3sAAAAC/surprised-ryan-reynolds.gif)
